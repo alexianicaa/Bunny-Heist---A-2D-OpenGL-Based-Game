@@ -1,0 +1,16 @@
+# Ignore compiled object files and executables
+*.o
+*.exe
+*.out
+*.a
+*.so
+*.dylib
+
+# Ignore IDE-specific files (e.g., for Visual Studio, Eclipse, etc.)
+.idea/
+.vscode/
+*.swp
+
+# Ignore generated files/folders
+build/
+bin/

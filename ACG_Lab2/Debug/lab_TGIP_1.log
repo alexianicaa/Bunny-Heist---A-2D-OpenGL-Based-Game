@@ -1,0 +1,17 @@
+﻿          1 file(s) copied.
+          1 file(s) copied.
+  main.cpp
+C:\UPB\III\Sem I\ACG\Proiect - partea1.2\Proiect - partea1\main.cpp(73,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\UPB\III\Sem I\ACG\Proiect - partea1.2\Proiect - partea1\main.cpp(75,22): warning C4305: '-=': truncation from 'double' to 'float'
+C:\UPB\III\Sem I\ACG\Proiect - partea1.2\Proiect - partea1\main.cpp(76,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\UPB\III\Sem I\ACG\Proiect - partea1.2\Proiect - partea1\main.cpp(77,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\UPB\III\Sem I\ACG\Proiect - partea1.2\Proiect - partea1\main.cpp(112,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\UPB\III\Sem I\ACG\Proiect - partea1.2\Proiect - partea1\main.cpp(113,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\UPB\III\Sem I\ACG\Proiect - partea1.2\Proiect - partea1\main.cpp(189,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\UPB\III\Sem I\ACG\Proiect - partea1.2\Proiect - partea1\main.cpp(1078,30): warning C4305: '+=': truncation from 'double' to 'float'
+C:\UPB\III\Sem I\ACG\Proiect - partea1.2\Proiect - partea1\main.cpp(1082,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\UPB\III\Sem I\ACG\Proiect - partea1.2\Proiect - partea1\main.cpp(1083,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\UPB\III\Sem I\ACG\Proiect - partea1.2\Proiect - partea1\main.cpp(1086,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\UPB\III\Sem I\ACG\Proiect - partea1.2\Proiect - partea1\main.cpp(1104,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\UPB\III\Sem I\ACG\Proiect - partea1.2\Proiect - partea1\main.cpp(1105,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  lab_TGIP_1.vcxproj -> C:\UPB\III\Sem I\ACG\Proiect - partea1.2\Proiect - partea1\Debug\ACG_Lab2.exe

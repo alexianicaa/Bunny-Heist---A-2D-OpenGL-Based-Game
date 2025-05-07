@@ -1,0 +1,12 @@
+#version 330 core
+
+// Output color
+out vec4 FragColor;
+
+// Uniform for object color
+uniform vec4 objectColor;
+
+void main()
+{
+    FragColor = objectColor; // Use the color from the uniform
+}
